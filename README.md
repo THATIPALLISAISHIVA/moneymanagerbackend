@@ -61,7 +61,7 @@ The application requires the following environment variables for email features 
 
 1. **Clone the repository**:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/THATIPALLISAISHIVA/moneymanagerbackend.git
    cd moneymanagerbackend
    ```
 
